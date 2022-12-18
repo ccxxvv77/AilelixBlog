@@ -131,7 +131,5 @@ symbols_count_time:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:ccxxvv77/HexoBlogBuild.git
-  branch: main
-  
+  type: 
+  repo: 
